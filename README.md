@@ -7,6 +7,8 @@ how NVIDIA's Nsight tools can aid in profiling CUDA programs.
 **Please bring your Windows CUDA-Capable laptop with the code downloaded and built.**
 **If you do not have a Windows CUDA-Capable laptop, please find a partner to work with.**
 
+Link to [Performance Lab Slides](https://1drv.ms/p/s!AiLXbdZHgbemhec4z38gLavx36c0DQ?e=OYrfn4)
+
 # TODO Before Performance Lab
 
 ## Clone, Build and Run
